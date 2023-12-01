@@ -1,0 +1,12 @@
+C:\Users\samraddhi\Desktop\travel\c#\Console_TravClan_Project\class_Models\bin\Debug\class_Models.dll
+C:\Users\samraddhi\Desktop\travel\c#\Console_TravClan_Project\class_Models\bin\Debug\class_Models.pdb
+C:\Users\samraddhi\Desktop\travel\c#\Console_TravClan_Project\class_Models\obj\Debug\class_Models.csproj.AssemblyReference.cache
+C:\Users\samraddhi\Desktop\travel\c#\Console_TravClan_Project\class_Models\obj\Debug\class_Models.csproj.CoreCompileInputs.cache
+C:\Users\samraddhi\Desktop\travel\c#\Console_TravClan_Project\class_Models\obj\Debug\class_Models.dll
+C:\Users\samraddhi\Desktop\travel\c#\Console_TravClan_Project\class_Models\obj\Debug\class_Models.pdb
+C:\Users\samraddhi\Desktop\Project\Console_TravClan_Project\class_Models\bin\Debug\class_Models.dll
+C:\Users\samraddhi\Desktop\Project\Console_TravClan_Project\class_Models\bin\Debug\class_Models.pdb
+C:\Users\samraddhi\Desktop\Project\Console_TravClan_Project\class_Models\obj\Debug\class_Models.csproj.AssemblyReference.cache
+C:\Users\samraddhi\Desktop\Project\Console_TravClan_Project\class_Models\obj\Debug\class_Models.csproj.CoreCompileInputs.cache
+C:\Users\samraddhi\Desktop\Project\Console_TravClan_Project\class_Models\obj\Debug\class_Models.dll
+C:\Users\samraddhi\Desktop\Project\Console_TravClan_Project\class_Models\obj\Debug\class_Models.pdb
